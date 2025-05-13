@@ -1,6 +1,6 @@
 ## README
 
-Codebase for "Sim-LLM: Efficient Inference Optimization Based on Task Similarity for Large Language Models in Edge"
+Codebase for "Sim-LLM: Optimizing LLM Inference at the Edge through Inter-Task KV Reuse"
 
 <!--
 **simllm/SimLLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
